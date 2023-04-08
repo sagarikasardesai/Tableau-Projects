@@ -6,7 +6,7 @@ Dataset - https://ourworldindata.org/coronavirus-data-explorer
 
 Tools & Technologies: PostgreSQL, pgAdmin, Excel, Tableau
 
-#spotifyrankings
+# spotifyrankings
 Explored, Extracted and cleaned the insights extracted from the Spotify tracks dataset.
 
 Dataset - https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
