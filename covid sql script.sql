@@ -1,3 +1,5 @@
+-- Visualization (Tableau) - https://public.tableau.com/app/profile/sagarikasardesai/viz/Covid19_16799493503730/Story1
+
 select * from "covidDeaths"."CovidDeaths_1" order by 1,2;
 
 --mortality rates on daily, monthly and yearly basis
