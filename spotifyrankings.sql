@@ -1,3 +1,4 @@
+-- Visualization (Tableau) - https://public.tableau.com/app/profile/sagarikasardesai/viz/SpotifyRankings/Story1
 -- top 10 track genres
 select track_genre, coalesce(round(avg(popularity::decimal),2),0) as avg_pop,
        coalesce(round(avg(duration_ms::decimal),2),0) as avg_duration,
