@@ -1,4 +1,4 @@
-# Covid 19 Cases Count Analysis
+# Pandemic Analysis & Forecasting
 
 Explored, Extracted and cleaned the insights extracted from the OWID Covid19 dataset.
 
